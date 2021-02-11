@@ -3,7 +3,7 @@
 .container {
   display: flex;
   margin-top: 250px;
-  width: 380px;
+  min-width: 700px;
   align-items: center;
   justify-content: center;
     text-align: center;
@@ -47,9 +47,9 @@ h1 {
   display:flex;
   -webkit-overflow-scrolling: touch;
   section {
-    width: 380px;
+    width: 500px;
     height: 100%;
-    flex:0 0 380px;
+    flex:0 0 500px;
     scroll-snap-align: start;
   }
 }
@@ -72,8 +72,7 @@ body {
 
 .mobile {
   width: 100%;
-  height: 90vh;
-  max-width: 380px;
+  height: 100vh;
   margin: 0 auto;
   background: #f9fbfc;
   position: relative;
@@ -100,6 +99,7 @@ h2 {
     text-align: left;
     display: inline-block;
     float: left;
+    margin-left: 50px;
 }
 
 
@@ -138,9 +138,7 @@ h2 {
 
 .center{
   margin: 200px auto;
-  width: 380px;
+ min-width: 500px;
   text-align: center;
   display: block;
 }
-
-
