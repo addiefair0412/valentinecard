@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: center;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 10px;
     margin-bottom: 100px;
 }
 
@@ -16,7 +16,7 @@ h1 {
     width: 100%;
     font-family: Open sans;
     color: pink;
-    font-size: 64px;
+    font-size: 60px;
 }
 
 .box {
@@ -26,10 +26,9 @@ h1 {
 }
 
 #heart {
-  height: 250px;
+  height: 550px;
     width: 500px;
   margin-left: auto;
-    margin-top: 100px;
   animation: 1.5s ease 0s infinite beat;
 }
 
@@ -98,7 +97,7 @@ h2 {
     text-align: left;
     display: inline-block;
     float: left;
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: 170px;
 }
 
@@ -121,7 +120,7 @@ h2 {
   padding-left: 14px;
   animation: move 8s infinite;
   animation-delay: 1.5s;
-  top: 0;
+  top: -10;
   left: 0;
   position: relative;
     font-family: Open sans;
@@ -141,5 +140,4 @@ h2 {
  min-width: 1000px;
   text-align: center;
   display: block;
-}
 }
