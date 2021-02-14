@@ -3,7 +3,7 @@
 .container {
   display: flex;
   margin-top: 250px;
-  min-width: 950px;
+  min-width: 975px;
   align-items: center;
   justify-content: center;
     text-align: center;
@@ -48,9 +48,9 @@ margin-top: 150px;
   display:flex;
   -webkit-overflow-scrolling: touch;
   section {
-    width: 950px;
+    width: 975px;
     height: 100%;
-    flex:0 0 950px;
+    flex:0 0 975px;
     scroll-snap-align: start;
   }
 }
@@ -91,7 +91,7 @@ h2 {
     text-align: left;
     display: inline-block;
     float: left;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 220px;
 }
 
@@ -142,7 +142,7 @@ h2 {
  height: 450px;
  width: 100px;
  position: relative;
-    margin-top: 150%;
+    margin-top: 120%;
     color: white;
     display: block;
 }
