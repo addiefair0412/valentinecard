@@ -148,7 +148,7 @@ h2 {
  height: 450px;
  width: 100px;
  position: relative;
-    margin-top: 700px;
+    margin-top: 1100px;
     color: white;
     display: block;
 }
@@ -251,7 +251,7 @@ img.heart {
     position: absolute;
     z-index: 5;
     animation: heart 5s infinite ease;
-    animation-delay: 1.1s;
+    animation-delay: 1.05s;
     top: 100px;
     left: -98px;
     transform: scale(.6);
@@ -265,18 +265,18 @@ img.heart {
     transform: scale(.6);
     }  
 20% {
-    top: -10px;
+    top: -50px;
     left: -38px;
     transform: scale(.8);
     } 
 40% {
-    top: -150px;
-    left: -138px;
+    top: -250px;
+    left: -238px;
     transform: scale(1.3);
     } 
 60% {
-    top: -250px;
-    left: -68px;
+    top: -350px;
+    left: -100px;
     transform: scale(2);
         opacity: 1;
     }
