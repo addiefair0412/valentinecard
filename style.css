@@ -148,7 +148,7 @@ h2 {
  height: 450px;
  width: 100px;
  position: relative;
-    margin-top: 1100px;
+    bottom: 100px;
     color: white;
     display: block;
 }
@@ -265,7 +265,7 @@ img.heart {
     transform: scale(.6);
     }  
 20% {
-    top: -50px;
+    top: -100px;
     left: -38px;
     transform: scale(.8);
     } 
@@ -281,7 +281,7 @@ img.heart {
         opacity: 1;
     }
 65% {
-    top: -250px;
+    top: -350px;
     left: -68px;
     transform: scale(2);
     opacity: 0;
