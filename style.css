@@ -20,9 +20,8 @@ h1 {
 }
 
 .box {
-  height: 100%;
   max-height: 500px;
-	margin-top: 150px;
+margin-top: 150px;
     
 }
 
@@ -143,7 +142,7 @@ h2 {
  height: 450px;
  width: 100px;
  position: relative;
-    margin-top: 120%;
+    margin-top: 200%;
     color: white;
     display: block;
 }
