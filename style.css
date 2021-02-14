@@ -148,7 +148,7 @@ h2 {
  height: 450px;
  width: 100px;
  position: relative;
-    bottom: 100px;
+    margin-top: 80%;
     color: white;
     display: block;
 }
